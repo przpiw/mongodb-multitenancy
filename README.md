@@ -1,7 +1,7 @@
 ## Multitenancy example with mongodb 
 
-### using method of swiching connection from mongoose client pool connection.
-requires
+### Using method of swiching connection from mongoose client pool connection.
+**Requires**
 -  .env file
 -   running mongodb instance
 
